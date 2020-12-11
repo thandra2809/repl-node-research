@@ -2,7 +2,7 @@
   "name": "repl-node-research",
   "version": "1.0.0",
   "description": "Research and examples of nodejs projects",
-  "main": "node helloword.js",
+  "main": "node ./node/helloword.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
