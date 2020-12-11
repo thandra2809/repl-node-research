@@ -1,0 +1,19 @@
+{
+  "name": "repl-node-research",
+  "version": "1.0.0",
+  "description": "Research and examples of nodejs projects",
+  "main": "node helloword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thandra2809/repl-node-research.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thandra2809/repl-node-research/issues"
+  },
+  "homepage": "https://github.com/thandra2809/repl-node-research#readme"
+}
